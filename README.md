@@ -1,2 +1,2 @@
 # Deep_Learning
-Just a few Deep Learning project, a lot more to come!
+Just a few Deep Learning projects, a lot more to come!
